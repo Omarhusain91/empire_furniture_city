@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "619920562964",
+    "project_id": "empire-furniture-city-a1fa9",
+    "storage_bucket": "empire-furniture-city-a1fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619920562964:android:1c5a735e20bbc3a0674001",
+        "android_client_info": {
+          "package_name": "com.example.empire_furniture_city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619920562964-cvi7tjph7b4r0i2rpoc8cup41e243pun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK4PtHcNGE-s-li8UJSV0cQFcvI9wR2wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619920562964-cvi7tjph7b4r0i2rpoc8cup41e243pun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619920562964-r1bm2bu1bigm0q8me4veqsrvfkfj9ejo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.empireFurnitureCity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
